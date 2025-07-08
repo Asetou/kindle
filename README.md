@@ -34,3 +34,32 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## Setup 01
+
+Setup Next.js Project
+- confirm environment
+⋅⋅⋅⋅*Node.js
+⋅⋅⋅⋅*npm
+
+- Verifying files and versions
+- Setup ShadCN/UI
+- Creating a GitHub repository
+
+## Database 02
+
+- PostgreSQL database (Neon - cloud-native, serverless Postgres platform that separates storage and compute, auto-scales on demand)
+
+- Setup Primsa (ORM - Object-Relational Mapper - lets you define your schema declaratively and then map it to a DB)
+-- In order to run, `npx prisma init`
+
+⋅⋅⋅⋅*Add schema
+⋅⋅⋅⋅*Basic migrations
+⋅⋅⋅⋅*Database studio
+⋅⋅⋅⋅*Database reset (FOR DEVELOPMENT - delete migrations,seed, and remove any call instance of the prisma db)
+
+- Push to GitHub
+⋅⋅⋅⋅*Branch out
+⋅⋅⋅⋅*Open a PR
+⋅⋅⋅⋅*Review and Merge
