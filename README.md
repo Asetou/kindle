@@ -52,8 +52,9 @@ Setup Next.js Project
 - PostgreSQL database (Neon - cloud-native, serverless Postgres platform that separates storage and compute, auto-scales on demand)
 
 - Setup Primsa (ORM - Object-Relational Mapper - lets you define your schema declaratively and then map it to a DB)
--- In order to run, `npx prisma init`
+- In order to run, `npx prisma init`
 
+- generate prisma files `npx prisma generate`
 ⋅⋅⋅⋅*Add schema
 ⋅⋅⋅⋅*Basic migrations
 ⋅⋅⋅⋅*Database studio
