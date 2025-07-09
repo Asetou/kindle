@@ -1,7 +1,3 @@
-Here’s a more organized, polished README you can use for your GitHub repo:
-
----
-
 ## 🚀 Project Overview
 
 A [Next.js](https://nextjs.org) starter app, bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
