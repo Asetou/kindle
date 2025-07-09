@@ -64,3 +64,16 @@ Setup Next.js Project
 ⋅⋅⋅⋅*Branch out
 ⋅⋅⋅⋅*Open a PR
 ⋅⋅⋅⋅*Review and Merge
+
+
+## TRPC Setup 03
+
+- setup tRPC
+⋅⋅⋅⋅*Experiement with client component
+⋅⋅⋅⋅*Experiement with server component
+⋅⋅⋅⋅*Preview prefetching
+
+- Push to GitHub
+⋅⋅⋅⋅*Branch out
+⋅⋅⋅⋅*Open a PR
+⋅⋅⋅⋅*Review and Merge
