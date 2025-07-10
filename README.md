@@ -1,6 +1,6 @@
 ## 🚀 Project Overview
 
-A [Next.js](https://nextjs.org) starter app, bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+A [Next.js](https://nextjs.org) AI SaaS app, bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 Includes Tailwind-based UI components, tRPC, Prisma, and a serverless PostgreSQL backend (Neon).
 
 ---
