@@ -157,3 +157,79 @@ For more details, see Next.js’s [deployment docs](https://nextjs.org/docs/app/
 ## 📜 License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+
+## Setup 01
+
+Setup Next.js Project
+1. confirm environment
+2. Node.js
+3. npm
+
+- Verifying files and versions
+- Setup ShadCN/UI
+- Creating a GitHub repository
+
+## Database 02
+
+1. PostgreSQL database (Neon - cloud-native, serverless Postgres platform that separates storage and compute, auto-scales on demand)
+
+2. Setup Primsa (ORM - Object-Relational Mapper - lets you define your schema declaratively and then map it to a DB)
+3. In order to run, `npx prisma init`
+
+4. generate prisma files `npx prisma generate`
+- Add schema
+- Basic migrations
+- Database studio
+- Database reset (FOR DEVELOPMENT - delete migrations,seed, and remove any call instance of the prisma db)
+
+5. Push to GitHub
+- Branch out
+- Open a PR
+- Review and Merge
+
+
+## TRPC Setup 03
+
+1. setup tRPC
+- Experiement with client component
+- Experiement with server component
+- Preview prefetching
+
+2. Push to GitHub
+- Branch out
+- Open a PR
+- Review and Merge
+
+## Background Jobs 04
+
+1. Normal Task
+- User clicks 'Login'
+- Sends request
+- Instant response (success or fail)
+
+
+2. Long running task example
+- User clicks 'Generate summary'
+- Sends network request
+- Backend generates summary (well over 30 seconds)
+- User waits
+- RISK: timeout / tab closed / connection timeout
+- User might never get a result
+
+3. Long running task example (WITH BACKGROUND JOB)
+- User clicks 'Generate summary'
+- Sends network request
+- Backend generates summary (well over 30 seconds)
+- Summary is being generated || Background job runs
+- User can close tab || User notified when job completes
+
+4. Setup Inngest
+- Create the first function
+- Explore Inngest Development Server
+- Trigger a background job from Next.js
+
+5. Push to GitHub
+- Branch out
+- Open a PR
+- Review and Merge
