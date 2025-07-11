@@ -233,3 +233,23 @@ Setup Next.js Project
 - Branch out
 - Open a PR
 - Review and Merge
+
+## AI Jobs 05
+
+1. Choose your AI provider
+
+- OpenAI 
+  - best choice 
+  - gpt-4.1
+  - normal rate limit, fast reset 
+
+- Anthropic (Claude) 
+  - claude-sonnet-3.5
+  - claude-sonnet-4
+  - strict rate limit, 24h+ reset 
+
+- Grok (xAI) 
+  - Unsure 
+
+- Gemini (Google) 
+  - Not good for calling tools 
