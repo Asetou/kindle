@@ -253,3 +253,7 @@ Setup Next.js Project
 
 - Gemini (Google) 
   - Not good for calling tools 
+
+
+
+## 
