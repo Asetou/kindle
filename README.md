@@ -256,6 +256,28 @@ Setup Next.js Project
 
 
 
-## 
+Sure! Here's the content from the image rewritten in your preferred format:
+
+---
+
+## E2B Sandboxes 06
+
+1. Setup E2B
+- Create an account
+- Install CLI
+- Connect to your account
+- Create a Dockerfile template
+- Install Docker
+- Push the template to E2B
+
+2. Preview Next.js app inside a Sandbox
+- Start a sandbox in Inngest with new template
+
+5. Push to GitHub
+- Branch out
+- Open a PR
+- Review and Merge
+
+##
 
 ##

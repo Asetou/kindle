@@ -1,0 +1,17 @@
+# This is a config for E2B sandbox template.
+# You can use template ID (vt6wycxc1dr7cbr9c5d9) or template name (kindle-nextjs-test) to create a sandbox:
+
+# Python SDK
+# from e2b import Sandbox, AsyncSandbox
+# sandbox = Sandbox("kindle-nextjs-test") # Sync sandbox
+# sandbox = await AsyncSandbox.create("kindle-nextjs-test") # Async sandbox
+
+# JS SDK
+# import { Sandbox } from 'e2b'
+# const sandbox = await Sandbox.create('kindle-nextjs-test')
+
+team_id = "d9d27a4c-5bf3-49b8-9996-09bb2eb144ff"
+start_cmd = "/compile_page.sh"
+dockerfile = "e2b.Dockerfile"
+template_name = "kindle-nextjs-test"
+template_id = "vt6wycxc1dr7cbr9c5d9"
