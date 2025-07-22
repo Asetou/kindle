@@ -278,6 +278,38 @@ Sure! Here's the content from the image rewritten in your preferred format:
 - Open a PR
 - Review and Merge
 
-##
+Sure! Here's the content from the image written in your preferred format:
+
+---
+
+## Agent Tools 07
+
+1. Add tools to agent
+
+* terminal
+
+  * gives shell access
+* createOrUpdateFiles
+
+  * allows file creation/editing
+* readFiles
+
+  * lets the agent read file contents
+
+2. Add a new prompt
+
+* guide the agent's behavior with custom instructions
+
+3. Add agent network & routers
+
+* enable communication between agents
+* route requests between tools
+
+4. Push to GitHub
+
+* branch out
+* open a PR
+* review & merge
+
 
 ##
