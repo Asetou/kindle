@@ -312,4 +312,31 @@ Sure! Here's the content from the image written in your preferred format:
 * review & merge
 
 
-##
+## Here's the content from the image rewritten in your preferred format:
+
+---
+
+## 08 Messages
+
+1. Set up schemas
+
+* Message schema
+
+  * stores user or AI message
+* Fragment schema
+
+  * stores parts of a response or structured content
+
+2. Save interactions
+
+* Save user prompt as message
+* Save AI response as message & fragment
+
+3. Push to GitHub
+
+* branch out
+* open a PR
+* review & merge
+
+
+npx inngest-cli@latest dev
