@@ -339,4 +339,17 @@ Sure! Here's the content from the image written in your preferred format:
 * review & merge
 
 
-npx inngest-cli@latest dev
+## Projects 09
+
+1. Project Schema and Relations
+   - Create "Project" schema
+   - Add "Message" relations
+
+2. Project Creation and Management
+   - Create new project on user prompt
+   - Preserve "projectId" in background jobs
+
+3. Push to GitHub
+   - Branch out
+   - Open a PR
+   - Review & Merge
